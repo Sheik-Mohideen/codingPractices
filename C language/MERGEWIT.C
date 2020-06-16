@@ -44,6 +44,6 @@ void main()
 	}
 	for(z=0;z<k;z++)
 	{
-		printf("%d\ ",c[z]);
+		printf("%d\n ",c[z]);
 	}
 }

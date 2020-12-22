@@ -1,5 +1,4 @@
 import java.lang.Math;
-
 public class Sudoku {
     public static boolean issafe(int board[][],int row ,int coln,int num)
     {
